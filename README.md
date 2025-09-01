@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Debika 👋  <br><br>🎓 Final-year B.Tech CSE student | 💻 Aspiring Software Developer | 🚀 Passionate about Problem Solving & Real-world Projects
+ <h2>Hi, I'm Debika 👋 </h2> <br>🎓 Final-year B.Tech CSE student | 💻 Aspiring Software Developer | 🚀 Passionate about Problem Solving & Real-world Projects
 
 
 ## 🌐 Socials:
